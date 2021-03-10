@@ -8,9 +8,9 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg?style=plastic&logo=appveyor)]()
-[![GitHub Issues](https://img.shields.io/github/issues/ioShinigami/TS-Vue-Boilerplate.svg)](https://github.com/ioShinigami/TS-Vue-Boilerplate/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ioShinigami/TS-Vue-Boilerplate.svg)](https://github.com/ioShinigami/TS-Vue-Boilerplate/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/ioShinigami/TS-Vue-Boilerplate.svg?style=plastic&logo=appveyor)](https://github.com/ioShinigami/TS-Vue-Boilerplate/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/ioShinigami/TS-Vue-Boilerplate.svg?style=plastic&logo=appveyor)](https://github.com/ioShinigami/TS-Vue-Boilerplate/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic&logo=appveyor)](/LICENSE)
 
 </div>
 
